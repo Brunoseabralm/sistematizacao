@@ -39,4 +39,6 @@ python gerar_relatorio.py
 A aplicação não usa `np.mean`, `np.var`, `np.median` etc. para produzir as medidas mostradas ao usuário. Essas funções ficam restritas aos testes de validação.
 
 ## Integrantes
-Preencher no relatório final: nomes completos e matrículas.
+Augusto da silva Carneiro de Arruda 72650316
+Bruno Seabra Lima de Moura 72650566
+
